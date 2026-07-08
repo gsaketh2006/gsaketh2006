@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 140" width="100%" height="100%">
+  <defs>
+    <!-- Border Gradient -->
+    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff7b72" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#161b22" stop-opacity="0.2" />
+    </linearGradient>
+    
+    <!-- Background Glow -->
+    <radialGradient id="cardGlow" cx="0%" cy="0%" r="60%">
+      <stop offset="0%" stop-color="#cf222e" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#cf222e" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <style>
+    .card-bg {
+      fill: #0d1117;
+      stroke: url(#borderGrad);
+      stroke-width: 1.5;
+      rx: 8px;
+    }
+    .glow-overlay {
+      fill: url(#cardGlow);
+      pointer-events: none;
+      rx: 8px;
+    }
+    .title-text {
+      font-family: 'Outfit', 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      font-weight: 700;
+      font-size: 15px;
+      fill: #ff7b72;
+    }
+    .desc-text {
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+      font-weight: 400;
+      font-size: 11.5px;
+      fill: #8b949e;
+      line-height: 16px;
+    }
+    .badge-bg {
+      fill: #161b22;
+      stroke: #30363d;
+      stroke-width: 1;
+      rx: 10px;
+    }
+    .badge-txt {
+      font-family: 'SFMono-Regular', Consolas, monospace;
+      font-size: 9px;
+      fill: #c9d1d9;
+      font-weight: 600;
+    }
+    .icon-symbol {
+      fill: #ff7b72;
+    }
+  </style>
+
+  <!-- Background Base -->
+  <rect class="card-bg" width="338" height="138" x="1" y="1" />
+  <rect class="glow-overlay" width="338" height="138" x="1" y="1" />
+
+  <!-- Project Icon (Lightning Bolt Symbol) -->
+  <g transform="translate(20, 20)">
+    <path class="icon-symbol" d="M11.5 2v10h3L9 22v-9H6l5.5-11z" transform="scale(1.2)"/>
+  </g>
+
+  <!-- Project Title -->
+  <text x="52" y="34" class="title-text">Electricity Theft Detection</text>
+
+  <!-- Description -->
+  <text x="20" y="62" class="desc-text">
+    <tspan x="20" dy="0">Anomaly detection modeling for power grids. Identifies</tspan>
+    <tspan x="20" dy="16">tampering and illegal consumption patterns using deep</tspan>
+    <tspan x="20" dy="16">learning classifiers on smart meter time-series data.</tspan>
+  </text>
+
+  <!-- Tech Stack Badges -->
+  <!-- Badge 1: Python -->
+  <rect x="20" y="108" width="58" height="18" class="badge-bg" />
+  <text x="49" y="120" text-anchor="middle" class="badge-txt">Python</text>
+
+  <!-- Badge 2: TensorFlow -->
+  <rect x="84" y="108" width="76" height="18" class="badge-bg" />
+  <text x="122" y="120" text-anchor="middle" class="badge-txt">TensorFlow</text>
+
+  <!-- Badge 3: NumPy -->
+  <rect x="166" y="108" width="52" height="18" class="badge-bg" />
+  <text x="192" y="120" text-anchor="middle" class="badge-txt">NumPy</text>
+
+  <!-- Badge 4: Pandas -->
+  <rect x="224" y="108" width="58" height="18" class="badge-bg" />
+  <text x="253" y="120" text-anchor="middle" class="badge-txt">Pandas</text>
+</svg>
