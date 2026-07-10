@@ -26,58 +26,57 @@ I am a B.Tech Computer Science Engineering student specializing in **Artificial 
 <summary><b>Click to expand/collapse Tech Stack</b></summary>
 <br />
 
-<table align="center" border="0" cellpadding="5" cellspacing="0" width="100%">
+<table align="center" border="0" cellpadding="10" cellspacing="0" width="100%">
   <tr>
-    <td align="right" width="20%"><b>Languages:</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Python-FF9F00?style=flat-square&amp;logo=python&amp;" alt="Python" />
-      <img src="https://img.shields.io/badge/Java-FF9F00?style=flat-square&amp;logo=openjdk&amp;" alt="Java" />
-      <img src="https://img.shields.io/badge/JavaScript-FF9F00?style=flat-square&amp;logo=javascript&amp;" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/SQL-FF9F00?style=flat-square&amp;logo=postgresql&amp;" alt="SQL" />
-      <img src="https://img.shields.io/badge/HTML5-FF9F00?style=flat-square&amp;logo=html5&amp;" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-FF9F00?style=flat-square&amp;logo=css3&amp;" alt="CSS3" />
+    <td align="right" width="20%" valign="middle"><b>Languages:</b></td>
+    <td valign="middle">
+      <img src="https://cdn.simpleicons.org/python/FFA726" width="20" height="20" align="center" alt="Python" /> Python &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/openjdk/FFA726" width="20" height="20" align="center" alt="Java" /> Java &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/javascript/FFA726" width="20" height="20" align="center" alt="JavaScript" /> JavaScript &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/postgresql/FFA726" width="20" height="20" align="center" alt="SQL" /> SQL &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/html5/FFA726" width="20" height="20" align="center" alt="HTML5" /> HTML5 &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/css3/FFA726" width="20" height="20" align="center" alt="CSS3" /> CSS3
     </td>
   </tr>
   <tr>
-    <td align="right"><b>Frontend:</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-FF9F00?style=flat-square&amp;logo=react&amp;" alt="React" />
+    <td align="right" valign="middle"><b>Frontend:</b></td>
+    <td valign="middle">
+      <img src="https://cdn.simpleicons.org/react/FFA726" width="20" height="20" align="center" alt="React" /> React
     </td>
   </tr>
   <tr>
-    <td align="right"><b>Backend:</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-FF9F00?style=flat-square&amp;logo=nodedotjs&amp;" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Express-FF9F00?style=flat-square&amp;logo=express&amp;" alt="Express" />
+    <td align="right" valign="middle"><b>Backend:</b></td>
+    <td valign="middle">
+      <img src="https://cdn.simpleicons.org/nodedotjs/FFA726" width="20" height="20" align="center" alt="Node.js" /> Node.js &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/express/FFA726" width="20" height="20" align="center" alt="Express" /> Express
     </td>
   </tr>
   <tr>
-    <td align="right"><b>Databases:</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/MySQL-FF9F00?style=flat-square&amp;logo=mysql&amp;" alt="MySQL" />
-      <img src="https://img.shields.io/badge/MongoDB-FF9F00?style=flat-square&amp;logo=mongodb&amp;" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/Supabase-FF9F00?style=flat-square&amp;logo=supabase&amp;" alt="Supabase" />
+    <td align="right" valign="middle"><b>Databases:</b></td>
+    <td valign="middle">
+      <img src="https://cdn.simpleicons.org/mysql/FFA726" width="20" height="20" align="center" alt="MySQL" /> MySQL &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/mongodb/FFA726" width="20" height="20" align="center" alt="MongoDB" /> MongoDB &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/supabase/FFA726" width="20" height="20" align="center" alt="Supabase" /> Supabase
     </td>
   </tr>
   <tr>
-    <td align="right"><b>AI &amp; ML:</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/PyTorch-FF9F00?style=flat-square&amp;logo=pytorch&amp;" alt="PyTorch" />
-      <img src="https://img.shields.io/badge/TensorFlow-FF9F00?style=flat-square&amp;logo=tensorflow&amp;" alt="TensorFlow" />
-      <img src="https://img.shields.io/badge/Scikit--Learn-FF9F00?style=flat-square&amp;logo=scikitlearn&amp;" alt="Scikit-Learn" />
-      <img src="https://img.shields.io/badge/OpenCV-FF9F00?style=flat-square&amp;logo=opencv&amp;logoColor=white" alt="OpenCV" />
-      <img src="https://img.shields.io/badge/NumPy-FF9F00?style=flat-square&amp;logo=numpy&amp;logoColor=white" alt="NumPy" />
-      <img src="https://img.shields.io/badge/Pandas-FF9F00?style=flat-square&amp;logo=pandas&amp;logoColor=white" alt="Pandas" />
-      <img src="https://img.shields.io/badge/Matplotlib-FF9F00?style=flat-square&amp;logo=scipy&amp;logoColor=white" alt="Matplotlib" />
+    <td align="right" valign="middle"><b>AI &amp; ML:</b></td>
+    <td valign="middle">
+      <img src="https://cdn.simpleicons.org/pytorch/FFA726" width="20" height="20" align="center" alt="PyTorch" /> PyTorch &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/tensorflow/FFA726" width="20" height="20" align="center" alt="TensorFlow" /> TensorFlow &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/scikitlearn/FFA726" width="20" height="20" align="center" alt="Scikit-Learn" /> Scikit-Learn &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/opencv/FFA726" width="20" height="20" align="center" alt="OpenCV" /> OpenCV &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/numpy/FFA726" width="20" height="20" align="center" alt="NumPy" /> NumPy &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/pandas/FFA726" width="20" height="20" align="center" alt="Pandas" /> Pandas
     </td>
   </tr>
   <tr>
-    <td align="right"><b>Tools:</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-FF9F00?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-FF9F00?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub" />
-      <img src="https://img.shields.io/badge/VS_Code-FF9F00?style=flat-square&amp;logo=visualstudiocode&amp;logoColor=white" alt="VS Code" />
-      <img src="https://img.shields.io/badge/Linux-FF9F00?style=flat-square&amp;logo=linux&amp;logoColor=white" alt="Linux" />
+    <td align="right" valign="middle"><b>Tools:</b></td>
+    <td valign="middle">
+      <img src="https://cdn.simpleicons.org/git/FFA726" width="20" height="20" align="center" alt="Git" /> Git &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/github/FFA726" width="20" height="20" align="center" alt="GitHub" /> GitHub &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/visualstudiocode/FFA726" width="20" height="20" align="center" alt="VS Code" /> VS Code &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="https://cdn.simpleicons.org/linux/FFA726" width="20" height="20" align="center" alt="Linux" /> Linux
     </td>
   </tr>
 </table>
