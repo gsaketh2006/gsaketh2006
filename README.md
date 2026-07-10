@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/gsaketh2006">
-    <img src="https://komarev.com/ghpvc/?username=gsaketh2006&amp;color=FF6B00&amp;style=flat-square&amp;label=PROFILE+VIEWS" alt="Visitor Counter" />
+    <img src="https://komarev.com/ghpvc/?username=gsaketh2006&amp;color=FF6B00&amp;style=flat-square&amp;label=VISITORS" alt="Visitor Counter" />
   </a>
 </p>
 
