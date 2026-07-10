@@ -30,7 +30,7 @@ I am a B.Tech Computer Science Engineering student specializing in **Artificial 
   <tr>
     <td align="right" width="20%"><b>Languages:</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Python?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/Python-FF9F00?style=flat-square&amp;logo=python&amp;" alt="Python" />
       <img src="https://img.shields.io/badge/Java-FF9F00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
       <img src="https://img.shields.io/badge/JavaScript-FF9F00?style=flat-square&amp;logo=javascript&amp;logoColor=white" alt="JavaScript" />
       <img src="https://img.shields.io/badge/SQL-FF9F00?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="SQL" />
