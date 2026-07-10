@@ -92,23 +92,15 @@ I am a B.Tech Computer Science Engineering student specializing in **Artificial 
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-<table align="center" border="0" cellpadding="0" cellspacing="10" width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=gsaketh2006&amp;show_icons=true&amp;theme=tokyonight&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=58a6ff&amp;border_color=30363d&amp;hide_border=false" alt="Stats Card" width="100%" />
-    </td>
-    <td width="50%" align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsaketh2006&amp;layout=compact&amp;theme=tokyonight&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=58a6ff&amp;border_color=30363d&amp;hide_border=false" alt="Top Langs Card" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center" valign="top">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=gsaketh2006&amp;theme=tokyonight&amp;background=0d1117&amp;ring=58a6ff&amp;fire=ff7b72&amp;currStreakNum=c9d1d9&amp;sideNums=8b949e&amp;sideLabels=8b949e&amp;dates=8b949e&amp;stroke=30363d&amp;hide_border=false" alt="Streak Stats" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gsaketh2006&amp;theme=react-dark&amp;bg_color=0d1117&amp;color=58a6ff&amp;line=58a6ff&amp;point=bc8cff&amp;area=true&amp;hide_border=true" alt="Activity Graph" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gsaketh2006&amp;theme=tokyonight&amp;background=0d1117&amp;ring=58a6ff&amp;fire=ff7b72&amp;currStreakNum=c9d1d9&amp;sideNums=8b949e&amp;sideLabels=8b949e&amp;dates=8b949e&amp;stroke=30363d&amp;hide_border=false" alt="Streak Stats" width="100%" />
+</p>
 
 ---
 
@@ -130,7 +122,6 @@ I am a B.Tech Computer Science Engineering student specializing in **Artificial 
 
 ## 📄 Resume
 
-<!-- Replace RESUME_LINK with your actual hosted resume URL -->
 <p align="center">
   <a href="https://gsaketh2006.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&amp;logo=googledrive&amp;logoColor=white" alt="Resume" />
