@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&amp;color=gradient:0D1117,1F1B2D&amp;height=180&amp;section=header&amp;text=SAKETH&amp;fontSize=45&amp;animation=scaleIn&amp;fontAlignY=35&amp;fontColor=FFFFFF" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:070a13,50:1b1429,100:c5a059&amp;height=200&amp;section=header&amp;text=SAKETH&amp;fontSize=40&amp;animation=fadeIn&amp;fontAlignY=40" alt="Header Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&amp;size=22&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=AI+Engineer+in+Training;Deep+Learning+Enthusiast;Building+the+Future+with+LLMs;Open+Source+Contributor" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&amp;size=22&amp;pause=1000&amp;color=c5a059&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=AI+Engineer+in+Training;Deep+Learning+Enthusiast;Building+the+Future+with+LLMs;Open+Source+Contributor" alt="Typing Animation" />
 </p>
 
 <p align="center">
   <a href="https://github.com/gsaketh2006">
-    <img src="https://komarev.com/ghpvc/?username=gsaketh2006&amp;color=58a6ff&amp;style=flat-square&amp;label=PROFILE+VIEWS" alt="Visitor Counter" />
+    <img src="https://komarev.com/ghpvc/?username=gsaketh2006&amp;color=c5a059&amp;style=flat-square&amp;label=PROFILE+VIEWS" alt="Visitor Counter" />
   </a>
 </p>
 
@@ -95,11 +95,11 @@ I am a B.Tech Computer Science Engineering student specializing in **Artificial 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gsaketh2006&amp;theme=react-dark&amp;bg_color=0d1117&amp;color=58a6ff&amp;line=58a6ff&amp;point=bc8cff&amp;area=true&amp;hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gsaketh2006&amp;theme=react-dark&amp;bg_color=0d1117&amp;color=c5a059&amp;line=c5a059&amp;point=bc8cff&amp;area=true&amp;hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gsaketh2006&amp;theme=tokyonight&amp;background=0d1117&amp;ring=58a6ff&amp;fire=ff7b72&amp;currStreakNum=c9d1d9&amp;sideNums=8b949e&amp;sideLabels=8b949e&amp;dates=8b949e&amp;stroke=30363d&amp;hide_border=false" alt="Streak Stats" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gsaketh2006&amp;theme=tokyonight&amp;background=0d1117&amp;ring=c5a059&amp;fire=ff7b72&amp;currStreakNum=c9d1d9&amp;sideNums=8b949e&amp;sideLabels=8b949e&amp;dates=8b949e&amp;stroke=30363d&amp;hide_border=false" alt="Streak Stats" width="100%" />
 </p>
 
 ---
@@ -150,5 +150,5 @@ I am a B.Tech Computer Science Engineering student specializing in **Artificial 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&amp;color=gradient:0D1117,1F1B2D&amp;height=100&amp;section=footer" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&amp;color=0:070a13,50:1b1429,100:c5a059&amp;height=100&amp;section=footer" alt="Footer Banner" />
 </p>
