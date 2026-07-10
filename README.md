@@ -31,40 +31,40 @@ I am a B.Tech Computer Science Engineering student specializing in **Artificial 
     <td align="right" width="20%"><b>Languages:</b></td>
     <td>
       <img src="https://img.shields.io/badge/Python-FF9F00?style=flat-square&amp;logo=python&amp;" alt="Python" />
-      <img src="https://img.shields.io/badge/Java-FF9F00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/JavaScript-FF9F00?style=flat-square&amp;logo=javascript&amp;logoColor=white" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/SQL-FF9F00?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="SQL" />
-      <img src="https://img.shields.io/badge/HTML5-FF9F00?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-FF9F00?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/Java-FF9F00?style=flat-square&amp;logo=openjdk&amp;" alt="Java" />
+      <img src="https://img.shields.io/badge/JavaScript-FF9F00?style=flat-square&amp;logo=javascript&amp;" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/SQL-FF9F00?style=flat-square&amp;logo=postgresql&amp;" alt="SQL" />
+      <img src="https://img.shields.io/badge/HTML5-FF9F00?style=flat-square&amp;logo=html5&amp;" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-FF9F00?style=flat-square&amp;logo=css3&amp;" alt="CSS3" />
     </td>
   </tr>
   <tr>
     <td align="right"><b>Frontend:</b></td>
     <td>
-      <img src="https://img.shields.io/badge/React-FF9F00?style=flat-square&amp;logo=react&amp;logoColor=white" alt="React" />
+      <img src="https://img.shields.io/badge/React-FF9F00?style=flat-square&amp;logo=react&amp;" alt="React" />
     </td>
   </tr>
   <tr>
     <td align="right"><b>Backend:</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Node.js-FF9F00?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/Express-FF9F00?style=flat-square&amp;logo=express&amp;logoColor=white" alt="Express" />
+      <img src="https://img.shields.io/badge/Node.js-FF9F00?style=flat-square&amp;logo=nodedotjs&amp;" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express-FF9F00?style=flat-square&amp;logo=express&amp;" alt="Express" />
     </td>
   </tr>
   <tr>
     <td align="right"><b>Databases:</b></td>
     <td>
-      <img src="https://img.shields.io/badge/MySQL-FF9F00?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/MongoDB-FF9F00?style=flat-square&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/Supabase-FF9F00?style=flat-square&amp;logo=supabase&amp;logoColor=white" alt="Supabase" />
+      <img src="https://img.shields.io/badge/MySQL-FF9F00?style=flat-square&amp;logo=mysql&amp;" alt="MySQL" />
+      <img src="https://img.shields.io/badge/MongoDB-FF9F00?style=flat-square&amp;logo=mongodb&amp;" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/Supabase-FF9F00?style=flat-square&amp;logo=supabase&amp;" alt="Supabase" />
     </td>
   </tr>
   <tr>
     <td align="right"><b>AI &amp; ML:</b></td>
     <td>
-      <img src="https://img.shields.io/badge/PyTorch-FF9F00?style=flat-square&amp;logo=pytorch&amp;logoColor=white" alt="PyTorch" />
-      <img src="https://img.shields.io/badge/TensorFlow-FF9F00?style=flat-square&amp;logo=tensorflow&amp;logoColor=white" alt="TensorFlow" />
-      <img src="https://img.shields.io/badge/Scikit--Learn-FF9F00?style=flat-square&amp;logo=scikitlearn&amp;logoColor=white" alt="Scikit-Learn" />
+      <img src="https://img.shields.io/badge/PyTorch-FF9F00?style=flat-square&amp;logo=pytorch&amp;" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF9F00?style=flat-square&amp;logo=tensorflow&amp;" alt="TensorFlow" />
+      <img src="https://img.shields.io/badge/Scikit--Learn-FF9F00?style=flat-square&amp;logo=scikitlearn&amp;" alt="Scikit-Learn" />
       <img src="https://img.shields.io/badge/OpenCV-FF9F00?style=flat-square&amp;logo=opencv&amp;logoColor=white" alt="OpenCV" />
       <img src="https://img.shields.io/badge/NumPy-FF9F00?style=flat-square&amp;logo=numpy&amp;logoColor=white" alt="NumPy" />
       <img src="https://img.shields.io/badge/Pandas-FF9F00?style=flat-square&amp;logo=pandas&amp;logoColor=white" alt="Pandas" />
