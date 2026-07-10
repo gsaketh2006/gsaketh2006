@@ -35,7 +35,7 @@ I am a B.Tech Computer Science Engineering student specializing in **Artificial 
       <img src="https://cdn.simpleicons.org/javascript/FFA726" width="20" height="20" align="center" alt="JavaScript" /> JavaScript &nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/postgresql/FFA726" width="20" height="20" align="center" alt="SQL" /> SQL &nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/html5/FFA726" width="20" height="20" align="center" alt="HTML5" /> HTML5 &nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/css3/FFA726" width="20" height="20" align="center" alt="CSS3" /> CSS3
+      <img src="https://cdn.simpleicons.org/css/FFA726" width="20" height="20" align="center" alt="CSS" /> CSS
     </td>
   </tr>
   <tr>
