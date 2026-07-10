@@ -75,7 +75,6 @@ I am a B.Tech Computer Science Engineering student specializing in **Artificial 
     <td valign="middle">
       <img src="https://cdn.simpleicons.org/git/FFA726" width="20" height="20" align="center" alt="Git" /> Git &nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/github/FFA726" width="20" height="20" align="center" alt="GitHub" /> GitHub &nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="https://cdn.simpleicons.org/visualstudiocode/FFA726" width="20" height="20" align="center" alt="VS Code" /> VS Code &nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://cdn.simpleicons.org/linux/FFA726" width="20" height="20" align="center" alt="Linux" /> Linux
     </td>
   </tr>
