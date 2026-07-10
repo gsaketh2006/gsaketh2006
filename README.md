@@ -102,12 +102,9 @@ I am a B.Tech Computer Science Engineering student specializing in **Artificial 
 <summary><b>Click to expand/collapse Experience Timeline</b></summary>
 <br />
 
-| Organization/Project | Role | Duration | Key Contribution |
+| Project | Role | Duration | Key Contribution |
 | :--- | :--- | :--- | :--- |
 | Autism Prediction | ML Developer | 2026 | Built ASD screening classifiers using Scikit-Learn. |
-| QFlow Queue System | Full Stack Developer | 2026 | Devised real-time wait-time syncing using React and Supabase. |
-| Electricity Theft Detection | ML Developer | 2026 | Developed CNN-LSTM neural networks to parse smart meter grids. |
-
 </details>
 
 ---
@@ -130,12 +127,6 @@ I am a B.Tech Computer Science Engineering student specializing in **Artificial 
   </a>
   <a href="mailto:gsaketh2006@gmail.com">
     <img src="https://img.shields.io/badge/Email-FF9F00?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
-  </a>
-  <a href="https://twitter.com/gsaketh2006" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-FF9F00?style=for-the-badge&amp;logo=twitter&amp;logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://gsaketh2006.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-FF9F00?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
