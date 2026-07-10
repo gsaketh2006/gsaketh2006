@@ -6,12 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Outfit&amp;size=22&amp;pause=1000&amp;color=FF8F00&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=AI+Engineer+in+Training;Deep+Learning+Enthusiast;Building+the+Future+with+LLMs;Open+Source+Contributor" alt="Typing Animation" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/gsaketh2006">
-    <img src="https://komarev.com/ghpvc/?username=gsaketh2006&amp;color=FF6B00&amp;style=flat-square&amp;label=PROFILE+VIEWS" alt="Visitor Counter" />
-  </a>
-</p>
-
 ---
 
 ## 🙋‍♂️ About Me
