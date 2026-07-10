@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&amp;size=22&amp;pause=1000&amp;color=c5a059&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=AI+Engineer+in+Training;Deep+Learning+Enthusiast;Building+the+Future+with+LLMs;Open+Source+Contributor" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&amp;size=22&amp;pause=1000&amp;color=FF8F00&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=AI+Engineer+in+Training;Deep+Learning+Enthusiast;Building+the+Future+with+LLMs;Open+Source+Contributor" alt="Typing Animation" />
 </p>
 
 <p align="center">
   <a href="https://github.com/gsaketh2006">
-    <img src="https://komarev.com/ghpvc/?username=gsaketh2006&amp;color=c5a059&amp;style=flat-square&amp;label=PROFILE+VIEWS" alt="Visitor Counter" />
+    <img src="https://komarev.com/ghpvc/?username=gsaketh2006&amp;color=FF6B00&amp;style=flat-square&amp;label=PROFILE+VIEWS" alt="Visitor Counter" />
   </a>
 </p>
 
@@ -95,11 +95,11 @@ I am a B.Tech Computer Science Engineering student specializing in **Artificial 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gsaketh2006&amp;theme=react-dark&amp;bg_color=0d1117&amp;color=c5a059&amp;line=c5a059&amp;point=bc8cff&amp;area=true&amp;hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gsaketh2006&amp;theme=react-dark&amp;bg_color=0d1117&amp;color=FF6B00&amp;line=FF6B00&amp;point=bc8cff&amp;area=true&amp;hide_border=true" alt="Activity Graph" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gsaketh2006&amp;theme=tokyonight&amp;background=0d1117&amp;ring=c5a059&amp;fire=ff7b72&amp;currStreakNum=c9d1d9&amp;sideNums=8b949e&amp;sideLabels=8b949e&amp;dates=8b949e&amp;stroke=30363d&amp;hide_border=false" alt="Streak Stats" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gsaketh2006&amp;theme=tokyonight&amp;background=0d1117&amp;ring=FF6B00&amp;fire=ff7b72&amp;currStreakNum=c9d1d9&amp;sideNums=8b949e&amp;sideLabels=8b949e&amp;dates=8b949e&amp;stroke=30363d&amp;hide_border=false" alt="Streak Stats" width="100%" />
 </p>
 
 ---

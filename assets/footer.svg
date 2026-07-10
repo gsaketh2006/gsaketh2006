@@ -2,17 +2,17 @@
   <defs>
     <!-- Background Gradient -->
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#03050a" />
-      <stop offset="100%" stop-color="#05070c" />
+      <stop offset="0%" stop-color="#020408" />
+      <stop offset="100%" stop-color="#04060b" />
     </linearGradient>
 
     <!-- Glowing Line Gradient -->
     <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#D4AF37" stop-opacity="0" />
-      <stop offset="20%" stop-color="#D4AF37" stop-opacity="0.8" />
-      <stop offset="50%" stop-color="#F3E5AB" stop-opacity="0.8" />
-      <stop offset="80%" stop-color="#9A7B3C" stop-opacity="0.8" />
-      <stop offset="100%" stop-color="#9A7B3C" stop-opacity="0" />
+      <stop offset="0%" stop-color="#FF6B00" stop-opacity="0" />
+      <stop offset="20%" stop-color="#FF6B00" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#FF9F00" stop-opacity="0.8" />
+      <stop offset="80%" stop-color="#C2410C" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#C2410C" stop-opacity="0" />
     </linearGradient>
   </defs>
 
