@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 250" width="100%" height="100%">
   <defs>
-    <!-- Background Gradient -->
+    <!-- Background Gradient (Rich warm dark-amber/charcoal) -->
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#020408" />
-      <stop offset="50%" stop-color="#0b0f19" />
-      <stop offset="100%" stop-color="#04060b" />
+      <stop offset="0%" stop-color="#0c0703" />
+      <stop offset="50%" stop-color="#140b05" />
+      <stop offset="100%" stop-color="#050301" />
     </linearGradient>
 
     <!-- Accent Orange Gradient -->
@@ -23,20 +23,20 @@
       <stop offset="100%" stop-color="#C2410C" stop-opacity="0" />
     </linearGradient>
 
-    <!-- Radial Glows -->
-    <radialGradient id="glowLeft" cx="15%" cy="30%" r="60%">
-      <stop offset="0%" stop-color="#1E293B" stop-opacity="0.25" />
-      <stop offset="100%" stop-color="#1E293B" stop-opacity="0" />
+    <!-- Radial Glows (Warm Amber & Orange) -->
+    <radialGradient id="glowLeft" cx="15%" cy="30%" r="65%">
+      <stop offset="0%" stop-color="#EA580C" stop-opacity="0.18" />
+      <stop offset="100%" stop-color="#EA580C" stop-opacity="0" />
     </radialGradient>
-    <radialGradient id="glowRight" cx="85%" cy="70%" r="60%">
-      <stop offset="0%" stop-color="#FF6B00" stop-opacity="0.12" />
-      <stop offset="100%" stop-color="#FF6B00" stop-opacity="0" />
+    <radialGradient id="glowRight" cx="85%" cy="70%" r="65%">
+      <stop offset="0%" stop-color="#F59E0B" stop-opacity="0.15" />
+      <stop offset="100%" stop-color="#F59E0B" stop-opacity="0" />
     </radialGradient>
 
     <!-- Sleek Tech Grid Pattern -->
     <pattern id="techGrid" width="50" height="50" patternUnits="userSpaceOnUse">
-      <path d="M 50 0 L 0 0 0 50" fill="none" stroke="#1E293B" stroke-width="0.5" stroke-opacity="0.4" />
-      <circle cx="0" cy="0" r="1" fill="#FF6B00" fill-opacity="0.25" />
+      <path d="M 50 0 L 0 0 0 50" fill="none" stroke="#2D1A0C" stroke-width="0.5" stroke-opacity="0.5" />
+      <circle cx="0" cy="0" r="1" fill="#FF6B00" fill-opacity="0.3" />
     </pattern>
 
     <!-- Glow Filter -->
@@ -74,7 +74,8 @@
       font-family: 'Inter', -apple-system, sans-serif;
       font-weight: 500;
       font-size: 13px;
-      fill: #94A3B8;
+      fill: #A78BFA; /* Keep it light violet-grey or change to warm peach */
+      fill: #CBD5E1;
       letter-spacing: 6px;
       text-transform: uppercase;
     }
@@ -83,10 +84,10 @@
       font-size: 11px;
       fill: #FF6B00;
       letter-spacing: 2px;
-      opacity: 0.8;
+      opacity: 0.85;
     }
     .accent-border {
-      stroke: #334155;
+      stroke: #451A03;
       stroke-width: 1.5;
     }
     .corner-decor {
@@ -100,8 +101,8 @@
   <rect width="100%" height="100%" fill="url(#bgGrad)" />
 
   <!-- Animated Ambient Orbs -->
-  <circle cx="100" cy="80" r="300" fill="url(#glowLeft)" class="pulse-glow-1" />
-  <circle cx="700" cy="170" r="300" fill="url(#glowRight)" class="pulse-glow-2" />
+  <circle cx="150" cy="80" r="300" fill="url(#glowLeft)" class="pulse-glow-1" />
+  <circle cx="650" cy="170" r="300" fill="url(#glowRight)" class="pulse-glow-2" />
 
   <!-- Floating Tech Grid -->
   <g class="grid-bg">
@@ -139,6 +140,6 @@
   <!-- Bottom Left Console Status -->
   <g transform="translate(20, 230)">
     <circle cx="0" cy="-3" r="3" fill="#FF6B00" />
-    <text x="10" y="1" font-family="'SFMono-Regular', Consolas, monospace" font-size="10" fill="#64748B">System: gsaketh2006.py --active</text>
+    <text x="10" y="1" font-family="'SFMono-Regular', Consolas, monospace" font-size="10" fill="#78350F">System: gsaketh2006.py --active</text>
   </g>
 </svg>

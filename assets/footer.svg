@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 60" width="100%" height="100%">
   <defs>
-    <!-- Background Gradient -->
+    <!-- Background Gradient (Rich warm dark-amber/charcoal) -->
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#020408" />
-      <stop offset="100%" stop-color="#04060b" />
+      <stop offset="0%" stop-color="#0c0703" />
+      <stop offset="100%" stop-color="#050301" />
     </linearGradient>
 
     <!-- Glowing Line Gradient -->
@@ -20,12 +20,12 @@
     .text-footer {
       font-family: 'SFMono-Regular', Consolas, monospace;
       font-size: 10px;
-      fill: #64748B;
+      fill: #78350F;
       letter-spacing: 2px;
       text-transform: uppercase;
     }
     .accent-border {
-      stroke: #1E293B;
+      stroke: #451A03;
       stroke-width: 1;
     }
   </style>
