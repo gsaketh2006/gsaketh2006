@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=timeGradient&amp;height=200&amp;section=header&amp;text=SAKETH&amp;fontSize=40&amp;animation=fadeIn&amp;fontAlignY=35" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&amp;color=gradient:0D1117,1F1B2D&amp;height=180&amp;section=header&amp;text=SAKETH&amp;fontSize=45&amp;animation=scaleIn&amp;fontAlignY=35&amp;fontColor=FFFFFF" alt="Header Banner" />
 </p>
 
 <p align="center">
@@ -150,5 +150,5 @@ I am a B.Tech Computer Science Engineering student specializing in **Artificial 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=timeGradient&amp;height=100&amp;section=footer" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&amp;color=gradient:0D1117,1F1B2D&amp;height=100&amp;section=footer" alt="Footer Banner" />
 </p>
