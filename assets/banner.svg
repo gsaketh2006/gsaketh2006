@@ -7,67 +7,40 @@
       <stop offset="100%" stop-color="#04060b" />
     </linearGradient>
 
-    <!-- Accent Orange Gradient -->
-    <linearGradient id="orangeGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#C2410C" />
-      <stop offset="50%" stop-color="#FF9F00" />
-      <stop offset="100%" stop-color="#FF6B00" />
+    <!-- Accent Golden Yellow Gradient -->
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#B8860B" />
+      <stop offset="50%" stop-color="#FFD700" />
+      <stop offset="100%" stop-color="#FFCC00" />
     </linearGradient>
 
-    <!-- Glowing Line Gradient -->
+    <!-- Line Gradient -->
     <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#FF6B00" stop-opacity="0" />
-      <stop offset="20%" stop-color="#FF6B00" stop-opacity="1" />
-      <stop offset="50%" stop-color="#FF9F00" stop-opacity="1" />
-      <stop offset="80%" stop-color="#C2410C" stop-opacity="1" />
-      <stop offset="100%" stop-color="#C2410C" stop-opacity="0" />
+      <stop offset="0%" stop-color="#FFD700" stop-opacity="0" />
+      <stop offset="20%" stop-color="#FFD700" stop-opacity="1" />
+      <stop offset="50%" stop-color="#FFCC00" stop-opacity="1" />
+      <stop offset="80%" stop-color="#B8860B" stop-opacity="1" />
+      <stop offset="100%" stop-color="#B8860B" stop-opacity="0" />
     </linearGradient>
 
-    <!-- Radial Glows -->
-    <radialGradient id="glowLeft" cx="15%" cy="30%" r="60%">
-      <stop offset="0%" stop-color="#1E293B" stop-opacity="0.25" />
-      <stop offset="100%" stop-color="#1E293B" stop-opacity="0" />
-    </radialGradient>
-    <radialGradient id="glowRight" cx="85%" cy="70%" r="60%">
-      <stop offset="0%" stop-color="#FF6B00" stop-opacity="0.12" />
-      <stop offset="100%" stop-color="#FF6B00" stop-opacity="0" />
-    </radialGradient>
-
-    <!-- Sleek Tech Grid Pattern -->
+    <!-- Sleek Tech Grid Pattern (No Glow Particles) -->
     <pattern id="techGrid" width="50" height="50" patternUnits="userSpaceOnUse">
       <path d="M 50 0 L 0 0 0 50" fill="none" stroke="#1E293B" stroke-width="0.5" stroke-opacity="0.4" />
-      <circle cx="0" cy="0" r="1" fill="#FF6B00" fill-opacity="0.25" />
     </pattern>
-
-    <!-- Glow Filter -->
-    <filter id="orangeGlow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="6" result="blur" />
-      <feMerge>
-        <feMergeNode in="blur" />
-        <feMergeNode in="SourceGraphic" />
-      </feMerge>
-    </filter>
   </defs>
 
   <style>
-    @keyframes pulseGlow {
-      0% { opacity: 0.4; }
-      50% { opacity: 0.7; }
-      100% { opacity: 0.4; }
-    }
     @keyframes gridFloat {
       0% { transform: translateY(0px); }
       100% { transform: translateY(50px); }
     }
-    .pulse-glow-1 { animation: pulseGlow 6s ease-in-out infinite; }
-    .pulse-glow-2 { animation: pulseGlow 9s ease-in-out infinite alternate; }
     .grid-bg { animation: gridFloat 25s linear infinite; }
     
     .text-name {
       font-family: 'Outfit', 'Inter', -apple-system, sans-serif;
       font-weight: 900;
       font-size: 58px;
-      fill: url(#orangeGrad);
+      fill: url(#goldGrad);
       letter-spacing: 12px;
     }
     .text-title {
@@ -81,7 +54,7 @@
     .text-code {
       font-family: 'SFMono-Regular', Consolas, monospace;
       font-size: 11px;
-      fill: #FF6B00;
+      fill: #FFD700;
       letter-spacing: 2px;
       opacity: 0.8;
     }
@@ -91,17 +64,13 @@
     }
     .corner-decor {
       fill: none;
-      stroke: #FF6B00;
+      stroke: #FFD700;
       stroke-width: 1.5;
     }
   </style>
 
   <!-- Background Base -->
   <rect width="100%" height="100%" fill="url(#bgGrad)" />
-
-  <!-- Animated Ambient Orbs -->
-  <circle cx="100" cy="80" r="300" fill="url(#glowLeft)" class="pulse-glow-1" />
-  <circle cx="700" cy="170" r="300" fill="url(#glowRight)" class="pulse-glow-2" />
 
   <!-- Floating Tech Grid -->
   <g class="grid-bg">
@@ -111,7 +80,7 @@
   <!-- Border & Frames -->
   <rect width="798" height="248" x="1" y="1" fill="none" class="accent-border" />
   
-  <!-- Sleek Orange Corners -->
+  <!-- Sleek Golden Yellow Corners -->
   <path d="M 12 1 L 1 1 L 1 12" class="corner-decor" />
   <path d="M 788 1 L 799 1 L 799 12" class="corner-decor" />
   <path d="M 12 249 L 1 249 L 1 238" class="corner-decor" />
@@ -122,12 +91,12 @@
     <!-- Subtitle (Role) -->
     <text y="-52" class="text-title">Artificial Intelligence Engineer</text>
     
-    <!-- Code Accent Lines -->
+    <!-- Code Accent Brackets -->
     <text x="-210" y="10" class="text-code">[</text>
     <text x="210" y="10" class="text-code">]</text>
 
     <!-- Main Typography (Name) -->
-    <text y="10" class="text-name" filter="url(#orangeGlow)">SAKETH</text>
+    <text y="10" class="text-name">SAKETH</text>
     
     <!-- Accent Line -->
     <rect x="-240" y="28" width="480" height="1.5" fill="url(#lineGrad)" />
@@ -138,7 +107,7 @@
 
   <!-- Bottom Left Console Status -->
   <g transform="translate(20, 230)">
-    <circle cx="0" cy="-3" r="3" fill="#FF6B00" />
+    <circle cx="0" cy="-3" r="3" fill="#FFD700" />
     <text x="10" y="1" font-family="'SFMono-Regular', Consolas, monospace" font-size="10" fill="#64748B">System: gsaketh2006.py --active</text>
   </g>
 </svg>
